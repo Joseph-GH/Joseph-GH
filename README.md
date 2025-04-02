@@ -1,7 +1,6 @@
-<h1> Hello, I'm Joseph! 👋😁</h1>
-<h1> こんにちは！私はジョセフです！ <h1>
-  
-<h2>💻 Projects</h2>
+<h1> 👋😁　Hello, I'm Joseph! こんにちは！私はジョセフです！</h1>
+
+<h2>💻 Projects・プロジェクト</h2>
 
 <h2>🌐 Connect with me:</h2>
 
