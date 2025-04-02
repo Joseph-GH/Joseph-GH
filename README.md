@@ -1,8 +1,8 @@
-<h1>Hello!・こんにちは！ 😁</h1>
+<h1>Hello!・こんにちは！</h1>
 
 <h2>💻 Projects・プロジェクト</h2>
 
-<h2>🌐 Connect with me:</h2>
+<h2>🌐 Connect with me・私とつながりましょう！</h2>
 
 [<img align="left" alt="JosephWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
