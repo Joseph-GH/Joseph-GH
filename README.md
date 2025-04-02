@@ -1,4 +1,5 @@
 <h1> Hello, I'm Joseph! 👋</h1>
+![BearHelloGIF](https://github.com/user-attachments/assets/25a13a89-73d3-4ff0-86bb-8736704f808b)
 
 <h2>💻 Projects</h2>
 
