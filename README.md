@@ -1,4 +1,4 @@
-<h1> 👋😁　Hello, I'm Joseph! こんにちは！私はジョセフです！</h1>
+<h1> 👋😁　Hello!・こんにちは！</h1>
 
 <h2>💻 Projects・プロジェクト</h2>
 
