@@ -1,6 +1,6 @@
 <h1>Hello!・こんにちは！</h1>
 
-<h2>💻 Projects・プロジェクト</h2>
+<h2>🚀 Projects・プロジェクト</h2>
 
 <h2>🌐 Connect with me!・私とつながりましょう！</h2>
 
